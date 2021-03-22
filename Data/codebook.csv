@@ -1,0 +1,89 @@
+category_id,assessed_category,unit of measurement
+1,all families - total - families in acquired properties,people
+2,all families - eligible for low rent - families in acquired properties,people
+3,all families - total - families relocated,people
+4,all families - low rent (fed. aided) - public rental - standard housing - families relocated,people
+5,all families - other perm. - public rental - standard housing - families relocated,people
+6,all families - referred by LPA - private rental - standard housing - families relocated,people
+7,all families - self-located - private rental - standard housing - families relocated,people
+8,all families - purchased housing - standard housing - families relocated,people
+9,all families - substandard housing - families relocated,people
+10,all families - private rental - rehousing not inspected - families relocated,people
+11,all families - purchased housing - rehousing not inspected - families relocated,people
+12,all families - whereabouts not known - rehousing not inspected - families relocated,people
+13,all families - evicted - rehousing not inspected - families relocated,people
+14,all families - temporary housing - families relocated,people
+15,white families - total families in acquired properties,people
+16,white families - families in acquired properties eligible for low rent,people
+17,white families - total families relocated,people
+18,white families - low rent (fed) - public rental - standard housing - families relocated,people
+19,white families - other perm. - public rental - standard housing - families relocated,people
+20,white families - referred by LPA - private rental - standard housing - families relocated,people
+21,white families - self-located - private rental - standard housing - families relocated,people
+22,white families - purchased housing - standard housing - families relocated,people
+23,white families - substandard housing - families relocated,people
+24,white families - private rental - rehousing not inspected - families relocated,people
+25,white families - purchased housing - rehousing not inspected - families relocated,people
+26,white families - whereabouts not known - rehousing not inspected - families relocated,people
+27,white families - evicted - rehousing not inspected - families relocated,people
+28,white families - temporary housing - families relocated,people
+29,non-white families - total families in acquired properties,people
+30,non-white families - families in acquired properties eligible for low rent,people
+31,non-white families - total families relocated,people
+32,non-white families - low rent (fed) - public rental - standard housing - families relocated,people
+33,non-white families - other perm. - public rental - standard housing - families relocated,people
+34,non-white families - referred by LPA - private rental - standard housing - families relocated,people
+35,non-white families - self-located - private rental - standard housing - families relocated,people
+36,non-white families - purchased housing - standard housing - families relocated,people
+37,non-white families - substandard housing - families relocated,people
+38,non-white families - private rental - rehousing not inspected - families relocated,people
+39,non-white families - purchased housing - rehousing not inspected - families relocated,people
+40,non-white families - whereabouts not known - rehousing not inspected - families relocated,people
+41,non-white families - evicted - rehousing not inspected - families relocated,people
+42,non-white families - temporary housing - families relocated,people
+43,all families -% eligible for low-rent p/h - families in acquired properties,% of people
+44,all families - on site - families not yet relocated,people
+45,all families - temporarily rehoused off site - families not yet relocated,people
+46,all families - dwlling not yet inspected - families relocated,people
+47,all families - relocated out of city - families relocated,people
+48,all families - whereabouts unknown - families relocated,people
+49,all families - evicted - families relocated,people
+50,all families - other - families relocated,people
+51,white families -% eligible for low-rent p/h - families in acquired properties,% of people
+52,white families - on site - families not yet relocated,people
+53,white families - temporarily rehoused off site - families not yet relocated,people
+54,white families - dwlling not yet inspected - families relocated,people
+55,white families - relocated out of city - families relocated,people
+56,white families - whereabouts unknown - families relocated,people
+57,white families - evicted - families relocated,people
+58,white families - other - families relocated,people
+59,non-white families -% eligible for low-rent p/h - families in acquired properties,% of people
+60,non-white families - on site - families not yet relocated,people
+61,non-white families - temporarily rehoused off site - families not yet relocated,people
+62,non-white families - dwlling not yet inspected - families relocated,people
+63,non-white families - relocated out of city - families relocated,people
+64,non-white families - whereabouts unknown - families relocated,people
+65,non-white families - evicted - families relocated,people
+66,non-white families - other - families relocated,people
+67,urban renewal grants approved/reserved,dollars
+68,urban renewal grants dispursed,dollars
+69,dwelling units- sub-standard,dwelling units
+70,dwelling units- standard,dwelling units
+71,white families,families
+72,non-white families,families
+73,proposed reuse of project land- total,acres
+74,"proposed reuse of project land- streets, alleys, public rights of way",acres
+75,proposed reuse of project land- residential,acres
+76,proposed reuse of project land- commercial,acres
+77,proposed reuse of project land- industrial,acres
+78,proposed reuse of project land- public,acres
+79,Federal Project Grants,dollars
+80,total families,families
+81,total projects,projects
+82,blighted residential,projects
+83,other blighted,projects
+84,predominantly open,projects
+85,open land,projects
+86,disaster area,projects
+87,university or college area,projects
+88,project status,letter
