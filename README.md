@@ -8,3 +8,8 @@ The maps and visualizations in **[Renewing Inequality](http://dsl.richmond.edu/p
 A number reported in the quarterly characteristics reports reflected the total estimated family displacements by individual project, an estimate that often did go up and down from quarter to quarter as the scope of projects changed and the estimates were refined. As such, we use the last available number for the maps. As we don't have evidence about exactly when these displacements happened, the year-by-year statistics represented in the bubbles on the maps and in the charts were calculated by distributing the total displacements over the first third of the active years of each project. If, say, a project displaced 500 families and was executed between 1961 and 1966, we estimate 250 displacement for 1961 and 250 for 1962. While imperfect, we reason that most projects were divided into three phases: acquisition of properties and relocation of people, clearance of buildings, and reuse of the cleared land.
 
 Sources for project boundaries come from many and varied sources. Citations and, when available, links to images can be found by selecting individual projects. It should be emphasized that the boundaries for many projects evolved. For some projects what's represented here is not a definitive representation of the project boundaries but a moment in the project's planning or execution for which we were able to locate a map. To date we have been able to locate maps for a significant fraction, but still only a fraction, of projects. We will be adding new project boundaries as we locate additional maps.
+
+
+## Licensing
+
+This data is available under a CC-BY-NC license (https://creativecommons.org/licenses/by-nc/2.0/).
